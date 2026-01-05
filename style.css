@@ -1,0 +1,22 @@
+body{
+  background:#020617;
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  color:white;
+}
+
+.box{
+  background:#0f172a;
+  padding:30px;
+  border-radius:12px;
+  width:320px;
+  text-align:center;
+}
+
+button{
+  padding:8px 16px;
+  cursor:pointer;
+}
